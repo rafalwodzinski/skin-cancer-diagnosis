@@ -39,7 +39,6 @@ The analysis is divided into 4 stages. Here is how to navigate the Polish notebo
 * **Key Visualizations (in Polish):**
     * *Macierz pomyłek* = **Confusion Matrix**
     * *Krzywa ROC* = **ROC Curve**
-    * *Diagram Nemenyi'ego* = **Critical Difference Diagram**
 * **Method:** Used **Friedman Test** (to detect differences) and **Nemenyi Post-hoc Test** (to identify superior models).
 
 ## 📉 Key Results
@@ -57,3 +56,4 @@ The research led to the following conclusions:
 
 ---
 *Author: Rafał Wodziński*
+
